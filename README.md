@@ -1,11 +1,17 @@
 
 ### Density of streamline endpoints
 
-[V1, V2, V3, V4]
-![occipital](plots/endpoint_density_V1.svg)
+### [V1, V2, V3, V4]
 
-[TF, TGv, TGd, TE2p]
-![lateral_temporal](plots/endpoint_density_TF.svg)
-
-[EC]
-![medial_temporal](plots/endpoint_density_EC.svg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="plots/endpoint_density_V1.svg" width="400"><br>
+      <sub>Hippocampal surface</sub>
+    </td>
+    <td align="center">
+      <img src="plots/endpoint_density_V1_slice.svg" width="400"><br>
+      <sub>Sagittal T1 slice</sub>
+    </td>
+  </tr>
+</table>
