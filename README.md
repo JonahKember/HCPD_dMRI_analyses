@@ -24,6 +24,9 @@ Fiber-tracts exhibit different projection patterns along the anterior–posterio
     <td align="center">
       <img src="plots/tract_area_development.svg" width="800"><br>
     </td>
+    <td align="legend">
+      <img src="plots/tract_area_development_legend.svg" width="400"><br>
+    </td>
   </tr>
 </table>
 
